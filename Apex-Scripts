@@ -5,7 +5,7 @@ Include utility methods, batch jobs, and scheduler classes.
 
 Apex Code Samples  
 
-This folder contains **Apex scripts** developed during my internship, covering:  
+This folder contains Apex scripts developed during my internship, covering:  
 ✅ Business logic implementation  
 ✅ Batch Apex for handling large datasets  
 ✅ Scheduler classes for automating tasks  
