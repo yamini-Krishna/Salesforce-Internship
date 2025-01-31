@@ -3,3 +3,16 @@
 Upload Apex classes that implement business logic.
 Include utility methods, batch jobs, and scheduler classes.
 
+Apex Code Samples  
+
+This folder contains **Apex scripts** developed during my internship, covering:  
+✅ Business logic implementation  
+✅ Batch Apex for handling large datasets  
+✅ Scheduler classes for automating tasks  
+
+## 📂 Files:  
+- LeadAssignmentHandler.apxc → Assigns leads based on specific rules.  
+- BatchDataProcessing.apxc → Processes records in batches for scalability.  
+- CustomUtility.apxc → Helper methods for common operations.  
+
+🔗 Learn more: [Apex Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)  
