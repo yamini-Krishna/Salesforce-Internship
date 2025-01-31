@@ -46,15 +46,6 @@ Salesforce provides two powerful query languages for retrieving and manipulating
 
 #### **SOQL (Salesforce Object Query Language)**  
 Similar to SQL, used for querying records from Salesforce objects.  
-**Example:**  
-```sql
-SELECT Name, Email FROM Contact WHERE City = 'Hyderabad'
-SOSL (Salesforce Object Search Language)
-
-Used for searching across multiple objects.
-Example:
-
-FIND 'John' IN ALL FIELDS RETURNING Contact(Name, Email)
 
 ### 5. Apex triggers  
 Apex Triggers are event-driven scripts that execute automatically when records are inserted, updated, or deleted.  
