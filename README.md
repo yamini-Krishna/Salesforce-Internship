@@ -17,11 +17,11 @@ During my internship, I worked on **custom Salesforce solutions** using Apex, Li
 ✔ Automating workflows with **flows and triggers**.  
 
 ## 📂 Repository Structure  
-- **/Apex-Scripts/** → Apex classes for business logic.  
-- **/LWC-Components/** → Sample LWC components.  
-- **/Triggers/** → Apex triggers for automation.  
-- **/SOQL-SOSL/** → Query examples.  
-- **/Automation/** → Workflow automation using Flow & Process Builder.  
+- **Apex-Scripts** → Apex classes for business logic.  
+- **LWC-Components** → Sample LWC components.  
+- **Triggers** → Apex triggers for automation.  
+- **SOQL-SOSL** → Query examples.  
+- **Automation** → Workflow automation using Flow & Process Builder.  
 
 🔗 **Additional Resources**  
 - [Salesforce Developer Documentation](https://developer.salesforce.com/)  
