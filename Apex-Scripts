@@ -10,7 +10,7 @@ This folder contains Apex scripts developed during my internship, covering:
 ✅ Batch Apex for handling large datasets  
 ✅ Scheduler classes for automating tasks  
 
-## 📂 Files:  
+📂 Files:  
 - LeadAssignmentHandler.apxc → Assigns leads based on specific rules.  
 - BatchDataProcessing.apxc → Processes records in batches for scalability.  
 - CustomUtility.apxc → Helper methods for common operations.  
