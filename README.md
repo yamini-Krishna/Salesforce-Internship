@@ -55,7 +55,8 @@ Used for searching across multiple objects.
 Example:
 
 FIND 'John' IN ALL FIELDS RETURNING Contact(Name, Email)
-## **5. Apex Triggers**  
+
+### 5. Apex triggers  
 Apex Triggers are event-driven scripts that execute automatically when records are inserted, updated, or deleted.  
 
 ### **Types of Triggers:**  
